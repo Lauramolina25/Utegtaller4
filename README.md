@@ -1,2 +1,4 @@
 # Utegtaller4
 Taller de Github
+LAURA MOLINA
+SISTEMA HOSPITALARIO V 1.0.0
